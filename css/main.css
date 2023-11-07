@@ -95,7 +95,7 @@ main {
 
 .container {
   width: 100%;
-  max-width: 1230px;
+  max-width: 1134px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -109,3 +109,6 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
+
+/* BLOCK import */
+@import url("./header.css");
